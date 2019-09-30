@@ -1,0 +1,22 @@
+{
+  "name": "sc2static",
+  "version": "0.0.1",
+  "description": "Static webpage announcing the end of the Spectrum Collaboration Challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeWitchJosie/SC2Static.git"
+  },
+  "author": "Jocelyn Irwin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodeWitchJosie/SC2Static/issues"
+  },
+  "homepage": "https://github.com/CodeWitchJosie/SC2Static#readme",
+  "dependencies": {
+    "bootstrap": "^3.4.1"
+  }
+}
